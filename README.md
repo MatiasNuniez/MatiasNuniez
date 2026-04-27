@@ -72,19 +72,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 🍔 **Chat-Burger**  
-  Full stack app with NestJS + React  
-
-- 📱 **React Native App (WIP)**  
-  Mobile app using Expo & Docker  
-
-- 🔐 **JWT Auth System**  
-  Secure authentication with NestJS  
-
----
-
 ## 📫 Contact
 
 <p>
@@ -100,7 +87,3 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I like turning complex problems into simple, scalable solutions.
