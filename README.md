@@ -3,9 +3,8 @@
 <p align="center">
   <img 
     src="https://matiasnuniez.github.io/imgProyects/emoji.jpeg" 
-    width="240" 
+    width="300" 
     alt="Matias Nuñez avatar"
-    style="border-radius: 50%; border: 3px solid #00F7FF;"
   />
 </p>
 
@@ -16,6 +15,7 @@
 <p align="center">
   <i>Building scalable web & mobile applications 🚀</i>
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
