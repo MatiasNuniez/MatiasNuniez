@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matias Nuñez</h1>
 
 <p align="center">
-  <img src="https://matiasnuniez.github.io/imgProyects/emoji.jpeg" width="180"/>
+  <img 
+    src="https://matiasnuniez.github.io/imgProyects/emoji.jpeg" 
+    width="240" 
+    alt="Matias Nuñez avatar"
+    style="border-radius: 50%; border: 3px solid #00F7FF;"
+  />
 </p>
 
 <p align="center">
@@ -11,7 +16,6 @@
 <p align="center">
   <i>Building scalable web & mobile applications 🚀</i>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
