@@ -24,8 +24,8 @@
 - ⚛️ Frontend: React, TypeScript, Tailwind  
 - 🧠 Backend: NestJS, Node.js, PostgreSQL  
 - 🐳 Strong focus on Docker & scalable systems  
-- 📱 Currently learning React Native  
-- 🎓 Systems Information student  
+- 📱 Currently learning React Native
+- 🎓 Bachelor's Degree in Information Systems  
 
 ---
 
