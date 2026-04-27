@@ -3,7 +3,7 @@
 <p align="center">
   <img 
     src="https://matiasnuniez.github.io/imgProyects/emoji.jpeg" 
-    width="300" 
+    width="340" 
     alt="Matias Nuñez avatar"
   />
 </p>
